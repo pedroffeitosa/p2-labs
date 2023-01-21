@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//PoFnkEzvk	Acima da média
+//PoFnkEzvk	Acima da média on Dirlididi
 
 public class Acima_da_Media {
 	
