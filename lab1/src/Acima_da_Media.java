@@ -8,6 +8,7 @@ public class Acima_da_Media {
 		int aux = 0;
 		int soma = 0;
 		int media = 0;
+		int aux1 = 1; //irrelevant
 		
 		String entrada = sc.nextLine();
 		String[] valores = entrada.split(" ");
@@ -18,6 +19,7 @@ public class Acima_da_Media {
 			soma += aux;		
 		}
 		//Encontrar a média
+		//Fingind the med
 		media = soma/valores.length;
 	
 		//Imprimir os valores que são maiores que a média
