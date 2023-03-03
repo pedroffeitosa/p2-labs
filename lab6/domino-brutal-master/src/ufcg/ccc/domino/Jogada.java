@@ -2,12 +2,12 @@ package ufcg.ccc.domino;
 
 /**
  * Encapsula uma jogada, incluindo uma peÃ§a e a posiÃ§Ã£o onde jogar.
- *
+ * This is a simple change on the main 
  */
 public class Jogada {
 
 	/**
-	 * Constantes para informar se a jogada é na direita, esquerda (da mesa), ou se é
+	 * Constantes para informar se a jogada ï¿½ na direita, esquerda (da mesa), ou se ï¿½
 	 * para passar a vez.
 	 */
 	public enum TipoJogada {
@@ -20,8 +20,8 @@ public class Jogada {
 	/**
 	 * Cria a jogada.
 	 * 
-	 * @param peca A peça a jogar.
-	 * @param tipo Se é uma jogada à esquerda, direita ou um passa.
+	 * @param peca A peï¿½a a jogar.
+	 * @param tipo Se ï¿½ uma jogada ï¿½ esquerda, direita ou um passa.
 	 */
 	public Jogada(Peca peca, TipoJogada tipo) {
 		this.peca = peca;
@@ -29,21 +29,21 @@ public class Jogada {
 	}
 
 	/**
-	 * Cria uma jogada de PASSA. Sem usar peça, o jogador passa a vez.
+	 * Cria uma jogada de PASSA. Sem usar peï¿½a, o jogador passa a vez.
 	 */
 	public Jogada() {
 		this(null, TipoJogada.PASSA);
 	}
 
 	/**
-	 * @return Se é uma jogada à esquerda, direita ou um passa.
+	 * @return Se ï¿½ uma jogada ï¿½ esquerda, direita ou um passa.
 	 */
 	public TipoJogada getTipo() {
 		return tipo;
 	}
 
 	/**
-	 * @return A peça da jogada.
+	 * @return A peï¿½a da jogada.
 	 */
 	public Peca getPeca() {
 		return peca;
