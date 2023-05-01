@@ -1,9 +1,9 @@
-# p2-labs
+# Programming Laboratory II
 
-## Lab 1 to 6
+## Laboratorty 1 to 6
 
 p2 labs projects
 
 all updated
 
-Update the README with the US's
+#### Update the README with the US's
