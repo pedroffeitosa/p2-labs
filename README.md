@@ -12,7 +12,12 @@
 - Passou ou Nao
 - Wally
 
-## Laboratory 2 - 6
+## Laboratory 2 
+
+- Gestão da Vida Acadêmica 
+
+## Laboratory 3 - 6
+
 
 p2 labs projects
 
