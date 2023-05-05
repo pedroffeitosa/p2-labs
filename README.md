@@ -25,6 +25,10 @@ A classe inicial é `agenda.InterfaceAgenda`.
 
 Material instrucional da disciplina Laboratório de Programação 2 da [Computação@UFCG](http://computacao.ufcg.edu.br/).
 
+## Laboratory 4
+
+Sistema de Gestão para vida acadêmica
+
 ## Laboratory 4 - 6
 
 p2 labs projects
