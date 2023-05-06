@@ -29,7 +29,7 @@ Material instrucional da disciplina Laboratório de Programação 2 da [Computa�
 
 Sistema de Gestão para vida acadêmica
 
-## Laboratory 5
+## Laboratory 5 and 6
 
 # Dominó Brutal
 
@@ -40,9 +40,3 @@ Para entender o design, leia os testes de unidade. Sugerimos começar por `JogoT
 Para criar uma nova estratégia de jogo, implemente a interface EstrategiaDeJogo.
 
 O nome Dominó Brutal é uma referência ao desenho Irmão de Jorel. Nenhum jogador ou animal é ferido em nenhuma partida. No desenho, várias coisas tem o adjetivo brutal em homenagem a steve magal, como [aqui](https://irmaodojorel.fandom.com/pt-br/wiki/Recreio_Brutal) e [aqui](https://irmaodojorel.fandom.com/pt-br/wiki/A_Perigosa_Lambada_Brutal) por exemplo.
-
-p2 labs projects
-
-all updated
-
-#### Update the README with the US's
