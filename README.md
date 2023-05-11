@@ -31,7 +31,7 @@ Sistema de Gestão para vida acadêmica
 
 ## Laboratory 5 and 6
 
-# Dominó Brutal
+# Dominó Brutal - Endded
 
 Campeonato de dominós para robô, exercício de LP2 (programação OO em Java) na Computação@UFCG.
 
